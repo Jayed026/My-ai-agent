@@ -1,0 +1,6 @@
+{
+  "name": "Bappy AI",
+  "description": "Smart, free AI Agent powered by AI Bappy 1.1 with zero login required, multi-turn chats, code help, and Bangla support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
